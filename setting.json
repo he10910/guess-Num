@@ -1,0 +1,9 @@
+{
+    "Max":"10",
+    "Min":"1",
+    "Error_MSG":"Error,try again!",
+    "Out_Of_Range_MSG":"Out of range,try again!",
+    "Bingo_MSG":"Bingo!",
+    "Too_Small_MSG":"too small",
+    "Too_Big_MSG":"too big"
+}

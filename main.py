@@ -41,7 +41,6 @@ while minmax == "x":
         minmax = "o"
 
 ans = int(random.randint(int(minn+1),int(maxx-1)))         #設定答案
-print(ans)
 
 gue = "x"
 while gue == "x":
