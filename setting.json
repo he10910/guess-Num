@@ -1,9 +1,11 @@
 {
-    "Max":"10",
+    "Max":"100",
     "Min":"1",
-    "Error_MSG":"Error,try again!",
-    "Out_Of_Range_MSG":"Out of range,try again!",
+    "Chances":"5",
+
+    "Error_MSG":"錯誤 請再試一次",
+    "Out_Of_Range_MSG":"超出範圍 請再試一次",
     "Bingo_MSG":"Bingo!",
-    "Too_Small_MSG":"too small",
-    "Too_Big_MSG":"too big"
+    "Too_Small_MSG":"太小",
+    "Too_Big_MSG":"太大"
 }
